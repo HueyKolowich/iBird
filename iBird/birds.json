@@ -1,0 +1,1004 @@
+{
+  "aldfly": [
+    "Alder Flycatcher",
+    "Empidonax alnorum",
+    "XC381873.mp3",
+    "aldfly"
+  ],
+  "amebit": [
+    "American Bittern",
+    "Botaurus lentiginosus",
+    "XC565252.mp3",
+    "amebit"
+  ],
+  "amecro": [
+    "American Crow",
+    "Corvus brachyrhynchos",
+    "XC243424.mp3",
+    "amecro"
+  ],
+  "amegfi": [
+    "American Goldfinch",
+    "Spinus tristis",
+    "XC186456.mp3",
+    "amegfi"
+  ],
+  "amered": [
+    "American Redstart",
+    "Setophaga ruticilla",
+    "XC122253.mp3",
+    "amered"
+  ],
+  "amerob": [
+    "American Robin",
+    "Turdus migratorius",
+    "XC130899.mp3",
+    "amerob"
+  ],
+  "amtspa": [
+    "American Tree Sparrow",
+    "Spizelloides arborea",
+    "XC535234.mp3",
+    "amtspa"
+  ],
+  "annhum": [
+    "Anna's Hummingbird",
+    "Calypte anna",
+    "XC99550.mp3",
+    "annhum"
+  ],
+  "astfly": [
+    "Ash-throated Flycatcher",
+    "Myiarchus cinerascens",
+    "XC244242.mp3",
+    "astfly"
+  ],
+  "balori": [
+    "Baltimore Oriole",
+    "Icterus galbula",
+    "XC31069.mp3",
+    "balori"
+  ],
+  "banswa": [
+    "Sand Martin",
+    "Riparia riparia",
+    "XC52058.mp3",
+    "banswa"
+  ],
+  "barswa": [
+    "Barn Swallow",
+    "Hirundo rustica",
+    "XC418712.mp3",
+    "barswa"
+  ],
+  "bawwar": [
+    "Black-and-white Warbler",
+    "Mniotilta varia",
+    "XC237367.mp3",
+    "bawwar"
+  ],
+  "bewwre": [
+    "Bewick's Wren",
+    "Thryomanes bewickii",
+    "XC289004.mp3",
+    "bewwre"
+  ],
+  "bkbwar": [
+    "Blackburnian Warbler",
+    "Setophaga fusca",
+    "XC143940.mp3",
+    "bkbwar"
+  ],
+  "bkcchi": [
+    "Black-capped Chickadee",
+    "Poecile atricapillus",
+    "XC216533.mp3",
+    "bkcchi"
+  ],
+  "bkhgro": [
+    "Black-headed Grosbeak",
+    "Pheucticus melanocephalus",
+    "XC11581.mp3",
+    "bkhgro"
+  ],
+  "bkpwar": [
+    "Blackpoll Warbler",
+    "Setophaga striata",
+    "XC178315.mp3",
+    "bkpwar"
+  ],
+  "bktspa": [
+    "Black-throated Sparrow",
+    "Amphispiza bilineata",
+    "XC578987.mp3",
+    "bktspa"
+  ],
+  "blkpho": [
+    "Black Phoebe",
+    "Sayornis nigricans",
+    "XC254183.mp3",
+    "blkpho"
+  ],
+  "blugrb1": [
+    "Blue Grosbeak",
+    "Passerina caerulea",
+    "XC562195.mp3",
+    "blugrb1"
+  ],
+  "blujay": [
+    "Blue Jay",
+    "Cyanocitta cristata",
+    "XC326845.mp3",
+    "blujay"
+  ],
+  "bnhcow": [
+    "Brown-headed Cowbird",
+    "Molothrus ater",
+    "XC158827.mp3",
+    "bnhcow"
+  ],
+  "boboli": [
+    "Bobolink",
+    "Dolichonyx oryzivorus",
+    "XC132418.mp3",
+    "boboli"
+  ],
+  "brdowl": [
+    "Barred Owl",
+    "Strix varia",
+    "XC124756.mp3",
+    "brdowl"
+  ],
+  "brespa": [
+    "Brewer's Sparrow",
+    "Spizella breweri",
+    "XC254811.mp3",
+    "brespa"
+  ],
+  "brncre": [
+    "Brown Creeper",
+    "Certhia americana",
+    "XC233529.mp3",
+    "brncre"
+  ],
+  "brnthr": [
+    "Brown Thrasher",
+    "Toxostoma rufum",
+    "XC132413.mp3",
+    "brnthr"
+  ],
+  "btbwar": [
+    "Black-throated Blue Warbler",
+    "Setophaga caerulescens",
+    "XC578338.mp3",
+    "btbwar"
+  ],
+  "btnwar": [
+    "Black-throated Green Warbler",
+    "Setophaga virens",
+    "XC129310.mp3",
+    "btnwar"
+  ],
+  "btywar": [
+    "Black-throated Grey Warbler",
+    "Setophaga nigrescens",
+    "XC548968.mp3",
+    "btywar"
+  ],
+  "buggna": [
+    "Blue-grey Gnatcatcher",
+    "Polioptila caerulea",
+    "XC31007.mp3",
+    "buggna"
+  ],
+  "buhvir": [
+    "Blue-headed Vireo",
+    "Vireo solitarius",
+    "XC245649.mp3",
+    "buhvir"
+  ],
+  "bulori": [
+    "Bullock's Oriole",
+    "Icterus bullockii",
+    "XC185270.mp3",
+    "bulori"
+  ],
+  "bushti": [
+    "American Bushtit",
+    "Psaltriparus minimus",
+    "XC257206.mp3",
+    "bushti"
+  ],
+  "buwwar": [
+    "Blue-winged Warbler",
+    "Vermivora cyanoptera",
+    "XC532123.mp3",
+    "buwwar"
+  ],
+  "cacwre": [
+    "Cactus Wren",
+    "Campylorhynchus brunneicapillus",
+    "XC180267.mp3",
+    "cacwre"
+  ],
+  "calqua": [
+    "California Quail",
+    "Callipepla californica",
+    "XC514859.mp3",
+    "calqua"
+  ],
+  "canwar": [
+    "Canada Warbler",
+    "Cardellina canadensis",
+    "XC182158.mp3",
+    "canwar"
+  ],
+  "canwre": [
+    "Canyon Wren",
+    "Catherpes mexicanus",
+    "XC545564.mp3",
+    "canwre"
+  ],
+  "carwre": [
+    "Carolina Wren",
+    "Thryothorus ludovicianus",
+    "XC8843.mp3",
+    "carwre"
+  ],
+  "casfin": [
+    "Cassin's Finch",
+    "Haemorhous cassinii",
+    "XC514861.mp3",
+    "casfin"
+  ],
+  "casvir": [
+    "Cassin's Vireo",
+    "Vireo cassinii",
+    "XC579451.mp3",
+    "casvir"
+  ],
+  "chispa": [
+    "Chipping Sparrow",
+    "Spizella passerina",
+    "XC17172.mp3",
+    "chispa"
+  ],
+  "chswar": [
+    "Chestnut-sided Warbler",
+    "Setophaga pensylvanica",
+    "XC216954.mp3",
+    "chswar"
+  ],
+  "comgra": [
+    "Common Grackle",
+    "Quiscalus quiscula",
+    "XC306499.mp3",
+    "comgra"
+  ],
+  "comloo": [
+    "Common Loon",
+    "Gavia immer",
+    "XC513886.mp3",
+    "comloo"
+  ],
+  "commer": [
+    "Common Merganser",
+    "Mergus merganser",
+    "XC540150.mp3",
+    "commer"
+  ],
+  "comrav": [
+    "Northern Raven",
+    "Corvus corax",
+    "XC375724.mp3",
+    "comrav"
+  ],
+  "comred": [
+    "Common Redpoll",
+    "Acanthis flammea",
+    "XC129109.mp3",
+    "comred"
+  ],
+  "comter": [
+    "Common Tern",
+    "Sterna hirundo",
+    "XC549384.mp3",
+    "comter"
+  ],
+  "comyel": [
+    "Common Yellowthroat",
+    "Geothlypis trichas",
+    "XC16920.mp3",
+    "comyel"
+  ],
+  "daejun": [
+    "Dark-eyed Junco",
+    "Junco hyemalis",
+    "XC343275.mp3",
+    "daejun"
+  ],
+  "dowwoo": [
+    "Downy Woodpecker",
+    "Dryobates pubescens",
+    "XC137910.mp3",
+    "dowwoo"
+  ],
+  "dusfly": [
+    "American Dusky Flycatcher",
+    "Empidonax oberholseri",
+    "XC561890.mp3",
+    "dusfly"
+  ],
+  "eargre": [
+    "Black-necked Grebe",
+    "Podiceps nigricollis",
+    "XC534401.mp3",
+    "eargre"
+  ],
+  "easblu": [
+    "Eastern Bluebird",
+    "Sialia sialis",
+    "XC563161.mp3",
+    "easblu"
+  ],
+  "easmea": [
+    "Eastern Meadowlark",
+    "Sturnella magna",
+    "XC11863.mp3",
+    "easmea"
+  ],
+  "easpho": [
+    "Eastern Phoebe",
+    "Sayornis phoebe",
+    "XC524904.mp3",
+    "easpho"
+  ],
+  "eastow": [
+    "Eastern Towhee",
+    "Pipilo erythrophthalmus",
+    "XC268803.mp3",
+    "eastow"
+  ],
+  "eawpew": [
+    "Eastern Wood Pewee",
+    "Contopus virens",
+    "XC17063.mp3",
+    "eawpew"
+  ],
+  "eucdov": [
+    "Eurasian Collared Dove",
+    "Streptopelia decaocto",
+    "XC170936.mp3",
+    "eucdov"
+  ],
+  "eursta": [
+    "Common Starling",
+    "Sturnus vulgaris",
+    "XC329070.mp3",
+    "eursta"
+  ],
+  "fiespa": [
+    "Field Sparrow",
+    "Spizella pusilla",
+    "XC404848.mp3",
+    "fiespa"
+  ],
+  "foxspa": [
+    "Red Fox Sparrow",
+    "Passerella iliaca",
+    "XC204393.mp3",
+    "foxspa"
+  ],
+  "gadwal": [
+    "Gadwall",
+    "Mareca strepera",
+    "XC532031.mp3",
+    "gadwal"
+  ],
+  "gnttow": [
+    "Green-tailed Towhee",
+    "Pipilo chlorurus",
+    "XC126450.mp3",
+    "gnttow"
+  ],
+  "gnwtea": [
+    "Eurasian Teal",
+    "Anas crecca",
+    "XC352833.mp3",
+    "gnwtea"
+  ],
+  "gockin": [
+    "Golden-crowned Kinglet",
+    "Regulus satrapa",
+    "XC546219.mp3",
+    "gockin"
+  ],
+  "gocspa": [
+    "Golden-crowned Sparrow",
+    "Zonotrichia atricapilla",
+    "XC535301.mp3",
+    "gocspa"
+  ],
+  "grcfly": [
+    "Great Crested Flycatcher",
+    "Myiarchus crinitus",
+    "XC137599.mp3",
+    "grcfly"
+  ],
+  "greegr": [
+    "Great Egret",
+    "Ardea alba",
+    "XC435966.mp3",
+    "greegr"
+  ],
+  "greyel": [
+    "Greater Yellowlegs",
+    "Tringa melanoleuca",
+    "XC244235.mp3",
+    "greyel"
+  ],
+  "grhowl": [
+    "Great Horned Owl",
+    "Bubo virginianus",
+    "XC216011.mp3",
+    "grhowl"
+  ],
+  "grtgra": [
+    "Great-tailed Grackle",
+    "Quiscalus mexicanus",
+    "XC574481.mp3",
+    "grtgra"
+  ],
+  "grycat": [
+    "Grey Catbird",
+    "Dumetella carolinensis",
+    "XC267504.mp3",
+    "grycat"
+  ],
+  "haiwoo": [
+    "Hairy Woodpecker",
+    "Leuconotopicus villosus",
+    "XC156400.mp3",
+    "haiwoo"
+  ],
+  "hamfly": [
+    "Hammond's Flycatcher",
+    "Empidonax hammondii",
+    "XC565256.mp3",
+    "hamfly"
+  ],
+  "hergul": [
+    "European Herring Gull",
+    "Larus argentatus",
+    "XC209146.mp3",
+    "hergul"
+  ],
+  "herthr": [
+    "Hermit Thrush",
+    "Catharus guttatus",
+    "XC387625.mp3",
+    "herthr"
+  ],
+  "hoowar": [
+    "Hooded Warbler",
+    "Setophaga citrina",
+    "XC234661.mp3",
+    "hoowar"
+  ],
+  "horlar": [
+    "Horned Lark",
+    "Eremophila alpestris",
+    "XC306340.mp3",
+    "horlar"
+  ],
+  "houfin": [
+    "House Finch",
+    "Haemorhous mexicanus",
+    "XC163052.mp3",
+    "houfin"
+  ],
+  "houspa": [
+    "House Sparrow",
+    "Passer domesticus",
+    "XC309048.mp3",
+    "houspa"
+  ],
+  "houwre": [
+    "House Wren",
+    "Troglodytes aedon",
+    "XC59450.mp3",
+    "houwre"
+  ],
+  "indbun": [
+    "Indigo Bunting",
+    "Passerina cyanea",
+    "XC418310.mp3",
+    "indbun"
+  ],
+  "juntit1": [
+    "Juniper Titmouse",
+    "Baeolophus ridgwayi",
+    "XC540432.mp3",
+    "juntit1"
+  ],
+  "killde": [
+    "Killdeer",
+    "Charadrius vociferus",
+    "XC56420.mp3",
+    "killde"
+  ],
+  "larspa": [
+    "Lark Sparrow",
+    "Chondestes grammacus",
+    "XC554578.mp3",
+    "larspa"
+  ],
+  "lazbun": [
+    "Lazuli Bunting",
+    "Passerina amoena",
+    "XC514825.mp3",
+    "lazbun"
+  ],
+  "leabit": [
+    "Least Bittern",
+    "Ixobrychus exilis",
+    "XC534679.mp3",
+    "leabit"
+  ],
+  "leafly": [
+    "Least Flycatcher",
+    "Empidonax minimus",
+    "XC343896.mp3",
+    "leafly"
+  ],
+  "lesgol": [
+    "Lesser Goldfinch",
+    "Spinus psaltria",
+    "XC320498.mp3",
+    "lesgol"
+  ],
+  "lesnig": [
+    "Lesser Nighthawk",
+    "Chordeiles acutipennis",
+    "XC543705.mp3",
+    "lesnig"
+  ],
+  "linspa": [
+    "Lincoln's Sparrow",
+    "Melospiza lincolnii",
+    "XC147593.mp3",
+    "linspa"
+  ],
+  "logshr": [
+    "Loggerhead Shrike",
+    "Lanius ludovicianus",
+    "XC247990.mp3",
+    "logshr"
+  ],
+  "lotduc": [
+    "Long-tailed Duck",
+    "Clangula hyemalis",
+    "XC564385.mp3",
+    "lotduc"
+  ],
+  "louwat": [
+    "Louisiana Waterthrush",
+    "Parkesia motacilla",
+    "XC133516.mp3",
+    "louwat"
+  ],
+  "macwar": [
+    "MacGillivray's Warbler",
+    "Geothlypis tolmiei",
+    "XC179552.mp3",
+    "macwar"
+  ],
+  "magwar": [
+    "Magnolia Warbler",
+    "Setophaga magnolia",
+    "XC11471.mp3",
+    "magwar"
+  ],
+  "mallar3": [
+    "Mallard",
+    "Anas platyrhynchos",
+    "XC559402.mp3",
+    "mallar3"
+  ],
+  "marwre": [
+    "Marsh Wren",
+    "Cistothorus palustris",
+    "XC264256.mp3",
+    "marwre"
+  ],
+  "mouchi": [
+    "Mountain Chickadee",
+    "Poecile gambeli",
+    "XC240240.mp3",
+    "mouchi"
+  ],
+  "moudov": [
+    "Mourning Dove",
+    "Zenaida macroura",
+    "XC161008.mp3",
+    "moudov"
+  ],
+  "norcar": [
+    "Northern Cardinal",
+    "Cardinalis cardinalis",
+    "XC211630.mp3",
+    "norcar"
+  ],
+  "norfli": [
+    "Northern Flicker",
+    "Colaptes auratus",
+    "XC161011.mp3",
+    "norfli"
+  ],
+  "normoc": [
+    "Northern Mockingbird",
+    "Mimus polyglottos",
+    "XC357813.mp3",
+    "normoc"
+  ],
+  "norpar": [
+    "Northern Parula",
+    "Setophaga americana",
+    "XC315578.mp3",
+    "norpar"
+  ],
+  "norwat": [
+    "Northern Waterthrush",
+    "Parkesia noveboracensis",
+    "XC17024.mp3",
+    "norwat"
+  ],
+  "olsfly": [
+    "Olive-sided Flycatcher",
+    "Contopus cooperi",
+    "XC470662.mp3",
+    "olsfly"
+  ],
+  "orcwar": [
+    "Orange-crowned Warbler",
+    "Leiothlypis celata",
+    "XC187324.mp3",
+    "orcwar"
+  ],
+  "osprey": [
+    "Western Osprey",
+    "Pandion haliaetus",
+    "XC367675.mp3",
+    "osprey"
+  ],
+  "ovenbi1": [
+    "Ovenbird",
+    "Seiurus aurocapilla",
+    "XC139445.mp3",
+    "ovenbi1"
+  ],
+  "pasfly": [
+    "Pacific-slope Flycatcher",
+    "Empidonax difficilis",
+    "XC169812.mp3",
+    "pasfly"
+  ],
+  "pibgre": [
+    "Pied-billed Grebe",
+    "Podilymbus podiceps",
+    "XC263209.mp3",
+    "pibgre"
+  ],
+  "pingro": [
+    "Pine Grosbeak",
+    "Pinicola enucleator",
+    "XC535186.mp3",
+    "pingro"
+  ],
+  "pinsis": [
+    "Pine Siskin",
+    "Spinus pinus",
+    "XC306495.mp3",
+    "pinsis"
+  ],
+  "pinwar": [
+    "Pine Warbler",
+    "Setophaga pinus",
+    "XC404842.mp3",
+    "pinwar"
+  ],
+  "plsvir": [
+    "Plumbeous Vireo",
+    "Vireo plumbeus",
+    "XC367452.mp3",
+    "plsvir"
+  ],
+  "prawar": [
+    "Prairie Warbler",
+    "Setophaga discolor",
+    "XC542151.mp3",
+    "prawar"
+  ],
+  "purfin": [
+    "Purple Finch",
+    "Haemorhous purpureus",
+    "XC344974.mp3",
+    "purfin"
+  ],
+  "rebmer": [
+    "Red-breasted Merganser",
+    "Mergus serrator",
+    "XC537582.mp3",
+    "rebmer"
+  ],
+  "rebnut": [
+    "Red-breasted Nuthatch",
+    "Sitta canadensis",
+    "XC243406.mp3",
+    "rebnut"
+  ],
+  "rebwoo": [
+    "Red-bellied Woodpecker",
+    "Melanerpes carolinus",
+    "XC161024.mp3",
+    "rebwoo"
+  ],
+  "redcro": [
+    "Red Crossbill",
+    "Loxia curvirostra",
+    "XC239569.mp3",
+    "redcro"
+  ],
+  "reevir1": [
+    "Red-eyed Vireo",
+    "Vireo olivaceus",
+    "XC239644.mp3",
+    "reevir1"
+  ],
+  "rewbla": [
+    "Red-winged Blackbird",
+    "Agelaius phoeniceus",
+    "XC158752.mp3",
+    "rewbla"
+  ],
+  "robgro": [
+    "Rose-breasted Grosbeak",
+    "Pheucticus ludovicianus",
+    "XC132272.mp3",
+    "robgro"
+  ],
+  "rocpig": [
+    "Rock Dove",
+    "Columba livia",
+    "XC323560.mp3",
+    "rocpig"
+  ],
+  "rocwre": [
+    "Rock Wren",
+    "Salpinctes obsoletus",
+    "XC513564.mp3",
+    "rocwre"
+  ],
+  "ruckin": [
+    "Ruby-crowned Kinglet",
+    "Regulus calendula",
+    "XC138141.mp3",
+    "ruckin"
+  ],
+  "rusbla": [
+    "Rusty Blackbird",
+    "Euphagus carolinus",
+    "XC573283.mp3",
+    "rusbla"
+  ],
+  "sagthr": [
+    "Sage Thrasher",
+    "Oreoscoptes montanus",
+    "XC564228.mp3",
+    "sagthr"
+  ],
+  "savspa": [
+    "Savannah Sparrow",
+    "Passerculus sandwichensis",
+    "XC17092.mp3",
+    "savspa"
+  ],
+  "saypho": [
+    "Say's Phoebe",
+    "Sayornis saya",
+    "XC443465.mp3",
+    "saypho"
+  ],
+  "scatan": [
+    "Scarlet Tanager",
+    "Piranga olivacea",
+    "XC17152.mp3",
+    "scatan"
+  ],
+  "scoori": [
+    "Scott's Oriole",
+    "Icterus parisorum",
+    "XC265320.mp3",
+    "scoori"
+  ],
+  "sheowl": [
+    "Short-eared Owl",
+    "Asio flammeus",
+    "XC554830.mp3",
+    "sheowl"
+  ],
+  "sonspa": [
+    "Song Sparrow",
+    "Melospiza melodia",
+    "XC17143.mp3",
+    "sonspa"
+  ],
+  "sora": [
+    "Sora",
+    "Porzana carolina",
+    "XC146931.mp3",
+    "sora"
+  ],
+  "spotow": [
+    "Spotted Towhee",
+    "Pipilo maculatus",
+    "XC439863.mp3",
+    "spotow"
+  ],
+  "stejay": [
+    "Steller's Jay",
+    "Cyanocitta stelleri",
+    "XC156778.mp3",
+    "stejay"
+  ],
+  "swaspa": [
+    "Swamp Sparrow",
+    "Melospiza georgiana",
+    "XC252319.mp3",
+    "swaspa"
+  ],
+  "swathr": [
+    "Swainson's Thrush",
+    "Catharus ustulatus",
+    "XC127370.mp3",
+    "swathr"
+  ],
+  "treswa": [
+    "Tree Swallow",
+    "Tachycineta bicolor",
+    "XC542120.mp3",
+    "treswa"
+  ],
+  "tuftit": [
+    "Tufted Titmouse",
+    "Baeolophus bicolor",
+    "XC433490.mp3",
+    "tuftit"
+  ],
+  "veery": [
+    "Veery",
+    "Catharus fuscescens",
+    "XC135443.mp3",
+    "veery"
+  ],
+  "vesspa": [
+    "Vesper Sparrow",
+    "Pooecetes gramineus",
+    "XC247713.mp3",
+    "vesspa"
+  ],
+  "vigswa": [
+    "Violet-green Swallow",
+    "Tachycineta thalassina",
+    "XC561717.mp3",
+    "vigswa"
+  ],
+  "warvir": [
+    "Warbling Vireo",
+    "Vireo gilvus",
+    "XC323690.mp3",
+    "warvir"
+  ],
+  "wesgre": [
+    "Western Grebe",
+    "Aechmophorus occidentalis",
+    "XC522760.mp3",
+    "wesgre"
+  ],
+  "wesmea": [
+    "Western Meadowlark",
+    "Sturnella neglecta",
+    "XC174388.mp3",
+    "wesmea"
+  ],
+  "westan": [
+    "Western Tanager",
+    "Piranga ludoviciana",
+    "XC406588.mp3",
+    "westan"
+  ],
+  "wewpew": [
+    "Western Wood Pewee",
+    "Contopus sordidulus",
+    "XC141880.mp3",
+    "wewpew"
+  ],
+  "whbnut": [
+    "White-breasted Nuthatch",
+    "Sitta carolinensis",
+    "XC314262.mp3",
+    "whbnut"
+  ],
+  "whcspa": [
+    "White-crowned Sparrow",
+    "Zonotrichia leucophrys",
+    "XC283185.mp3",
+    "whcspa"
+  ],
+  "whtspa": [
+    "White-throated Sparrow",
+    "Zonotrichia albicollis",
+    "XC312259.mp3",
+    "whtspa"
+  ],
+  "wilfly": [
+    "Willow Flycatcher",
+    "Empidonax traillii",
+    "XC216968.mp3",
+    "wilfly"
+  ],
+  "wilsni1": [
+    "Wilson's Snipe",
+    "Gallinago delicata",
+    "XC187234.mp3",
+    "wilsni1"
+  ],
+  "winwre3": [
+    "Winter Wren",
+    "Troglodytes hiemalis",
+    "XC54767.mp3",
+    "winwre3"
+  ],
+  "wlswar": [
+    "Wilson's Warbler",
+    "Cardellina pusilla",
+    "XC155360.mp3",
+    "wlswar"
+  ],
+  "woothr": [
+    "Wood Thrush",
+    "Hylocichla mustelina",
+    "XC234652.mp3",
+    "woothr"
+  ],
+  "yebfly": [
+    "Yellow-bellied Flycatcher",
+    "Empidonax flaviventris",
+    "XC179490.mp3",
+    "yebfly"
+  ],
+  "yehbla": [
+    "Yellow-headed Blackbird",
+    "Xanthocephalus xanthocephalus",
+    "XC407212.mp3",
+    "yehbla"
+  ],
+  "yelwar": [
+    "Mangrove Warbler",
+    "Setophaga petechia",
+    "XC535221.mp3",
+    "yelwar"
+  ],
+  "yerwar": [
+    "Myrtle Warbler",
+    "Setophaga coronata",
+    "XC155350.mp3",
+    "yerwar"
+  ],
+  "yetvir": [
+    "Yellow-throated Vireo",
+    "Vireo flavifrons",
+    "XC565140.mp3",
+    "yetvir"
+  ]
+}
