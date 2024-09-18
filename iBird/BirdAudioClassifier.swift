@@ -5,6 +5,7 @@
 //  Created by Huey Kolowich on 11/25/23.
 //
 
+import AVFoundation
 import Foundation
 import SoundAnalysis
 
